@@ -1,0 +1,239 @@
+{
+  "placeId" : {
+      "北海道" : {
+      "weatherId": "016010",
+      "placeNameJp": "北海道",
+      "placeNameEn": "Hokkaidou"
+      },
+      "青森県" : {
+      "weatherId" : "020010",
+      "placeNameJp" : "青森県",
+      "placeNameEn" : "Aomori"
+      },
+      "岩手県" : {
+      "weatherId" : "030010",
+      "placeNameJp" : "岩手県",
+      "placeNameEn" : "Iwate"
+      },
+      "宮城県" : {
+      "weatherId" : "040010",
+      "placeNameJp" : "宮城県",
+      "placeNameEn" : "Miyagi"
+      },
+      "秋田県" : {
+      "weatherId" : "050010",
+      "placeNameJp" : "秋田県",
+      "placeNameEn" : "Akita"
+      },
+      "山形県" : {
+      "weatherId" : "060010",
+      "placeNameJp" : "山形県",
+      "placeNameEn" : "Yamagata"
+      },
+      "福島県" : {
+      "weatherId" : "070010",
+      "placeNameJp" : "福島県",
+      "placeNameEn" : "Fukushima"
+      },
+      "茨城県" : {
+      "weatherId" : "080010",
+      "placeNameJp" : "茨城県",
+      "placeNameEn" : "Ibaraki"
+      },
+      "栃木県" : {
+      "weatherId" : "090010",
+      "placeNameJp" : "栃木県",
+      "placeNameEn" : "Tochigi"
+      },
+      "群馬県" : {
+      "weatherId" : "100010",
+      "placeNameJp" : "群馬県",
+      "placeNameEn" : "Gunma"
+      },
+      "埼玉県" : {
+      "weatherId" : "110010",
+      "placeNameJp" : "埼玉県",
+      "placeNameEn" : "Saitama"
+      },
+      "千葉県" : {
+      "weatherId" : "120010",
+      "placeNameJp" : "千葉県",
+      "placeNameEn" : "Chiba"
+      },
+      "東京都" : {
+      "weatherId" : "130010",
+      "placeNameJp" : "東京都",
+      "placeNameEn" : "Tokyo"
+      },
+      "神奈川県" : {
+      "weatherId" : "140010",
+      "placeNameJp" : "神奈川県",
+      "placeNameEn" : "Kanagawa"
+      },
+      "新潟県" : {
+      "weatherId" : "150010",
+      "placeNameJp" : "新潟県",
+      "placeNameEn" : "Niigata"
+      },
+      "富山県" : {
+      "weatherId" : "160010",
+      "placeNameJp" : "富山県",
+      "placeNameEn" : "Toyama"
+      },
+      "石川県" : {
+      "weatherId" : "170010",
+      "placeNameJp" : "石川県",
+      "placeNameEn" : "Ishikawa"
+      },
+      "福井県" : {
+      "weatherId" : "180010",
+      "placeNameJp" : "福井県",
+      "placeNameEn" : "Fukui"
+      },
+      "山梨県" : {
+      "weatherId" : "190010",
+      "placeNameJp" : "山梨県",
+      "placeNameEn" : "Yamanashi"
+      },
+      "長野県" : {
+      "weatherId" : "200010",
+      "placeNameJp" : "長野県",
+      "placeNameEn" : "Nagano"
+      },
+      "岐阜県" : {
+      "weatherId" : "210010",
+      "placeNameJp" : "岐阜県",
+      "placeNameEn" : "Gifu"
+      },
+      "静岡県" : {
+      "weatherId" : "22001",
+      "placeNameJp" : "静岡県",
+      "placeNameEn" : "Sizuoka"
+      },
+      "愛知県" : {
+      "weatherId" : "230010",
+      "placeNameJp" : "愛知県",
+      "placeNameEn" : "Aichi"
+      },
+      "三重県" : {
+      "weatherId" : "240010",
+      "placeNameJp" : "三重県",
+      "placeNameEn" : "Mie"
+      },
+      "滋賀県" : {
+      "weatherId" : "250010",
+      "placeNameJp" : "滋賀県",
+      "placeNameEn" : "Shiga"
+      },
+      "京都府" : {
+      "weatherId" : "260010",
+      "placeNameJp" : "京都府",
+      "placeNameEn" : "Kyoto"
+      },
+      "大阪府" : {
+      "weatherId" : "270000",
+      "placeNameJp" : "大阪府",
+      "placeNameEn" : "Osaka"
+      },
+      "兵庫県" : {
+      "weatherId" : "280010",
+      "placeNameJp" : "兵庫県",
+      "placeNameEn" : "Hyogo"
+      },
+      "奈良県" : {
+      "weatherId" : "290010",
+      "placeNameJp" : "奈良県",
+      "placeNameEn" : "Nara"
+      },
+      "和歌山県" : {
+      "weatherId" : "300010",
+      "placeNameJp" : "和歌山県",
+      "placeNameEn" : "Wakayama"
+      },
+      "鳥取県" : {
+      "weatherId" : "310010",
+      "placeNameJp" : "鳥取県",
+      "placeNameEn" : "Tottori"
+      },
+      "島根県" : {
+      "weatherId" : "320010",
+      "placeNameJp" : "島根県",
+      "placeNameEn" : "Shimane"
+      },
+      "岡山県" : {
+      "weatherId" : "330010",
+      "placeNameJp" : "岡山県",
+      "placeNameEn" : "Okayama"
+      },
+      "広島県" : {
+      "weatherId" : "340010",
+      "placeNameJp" : "広島県",
+      "placeNameEn" : "Hiroshima"
+      },
+      "山口県" : {
+      "weatherId" : "350010",
+      "placeNameJp" : "山口県",
+      "placeNameEn" : "Yamaguchi"
+      },
+      "徳島県" : {
+      "weatherId" : "360010",
+      "placeNameJp" : "徳島県",
+      "placeNameEn" : "Tokushima"
+      },
+      "香川県" : {
+      "weatherId" : "370000",
+      "placeNameJp" : "香川県",
+      "placeNameEn" : "Kagawa"
+      },
+      "愛媛県" : {
+      "weatherId" : "380010",
+      "placeNameJp" : "愛媛県",
+      "placeNameEn" : "Ehime"
+      },
+      "高知県" : {
+      "weatherId" : "390010",
+      "placeNameJp" : "高知県",
+      "placeNameEn" : "Kochi"
+      },
+      "福岡県" : {
+      "weatherId" : "400010",
+      "placeNameJp" : "福岡県",
+      "placeNameEn" : "Fukuoka"
+      },
+      "佐賀県" : {
+      "weatherId" : "410010",
+      "placeNameJp" : "佐賀県",
+      "placeNameEn" : "Saga"
+      },
+      "長崎県" : {
+      "weatherId" : "420010",
+      "placeNameJp" : "長崎県",
+      "placeNameEn" : "Nagasaki"
+      },
+      "熊本県" : {
+      "weatherId" : "430010",
+      "placeNameJp" : "熊本県",
+      "placeNameEn" : "Kumamoto"
+      },
+      "大分県" : {
+      "weatherId" : "440010",
+      "placeNameJp" : "大分県",
+      "placeNameEn" : "Oita"
+      },
+      "宮崎県" : {
+      "weatherId" : "450010",
+      "placeNameJp" : "宮埼県",
+      "placeNameEn" : "Miyazaki"
+      },
+      "鹿児島県" : {
+      "weatherId" : "460010",
+      "placeNameJp" : "鹿児島県",
+      "placeNameEn" : "Kagoshima"
+      },
+      "沖縄県" : {
+      "weatherId" : "471010",
+      "placeNameJp" : "沖縄",
+      "placeNameEn" : "Okinawa"
+      }
+  }
+}

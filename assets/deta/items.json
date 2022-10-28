@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "itemId": 0,
+      "itemImage": "/assets/img/hankachi.png",
+      "itemNameEn": "handkerchief",
+      "itemNameJp": "ハンカチ",
+      "weatherId": ["01", "02", "03", "04", "09", "10"],
+      "maxTemp": 99,
+      "minTemp": 26,
+      "maxChanceOfRain": 100,
+      "minChanceOfRain": 0,
+      "maxHumidity": "100%",
+      "minHumidity": "60%",
+      "maxUvi": 99,
+      "minUvi": 0
+    },
+    {
+      "itemId": 1,
+      "itemImage": "/assets/img/kasa.png",
+      "itemNameEn": "handkerchief",
+      "itemNameJp": "傘",
+      "weatherId": ["09", "10", "11", "13"],
+      "maxTemp": 99,
+      "minTemp": -99,
+      "maxChanceOfRain": 100,
+      "minChanceOfRain": 35,
+      "maxHumidity": "100%",
+      "minHumidity": "50%",
+      "maxUvi": 99,
+      "minUvi": 0
+    }
+  ]
+}
