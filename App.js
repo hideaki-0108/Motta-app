@@ -21,7 +21,7 @@ console.log(width);
 export default function App() {
   const [errorMessage, setErrorMessage] = useState(null);
   const [currentWeather, setCurrentWether] = useState(null);
-  const [unitsSystem, setUnitsSystem] = useState("metric");
+  const [unitsSystem] = useState("metric");
   const [cityName, setCityName] = useState(null);
   const [weatherJp, setWeatherJp] = useState(null);
 
