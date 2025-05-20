@@ -9,14 +9,13 @@ import WeatherTemp from "./components/WeatherTemp";
 import ChanceOfRain from "./components/ChanceOfRain";
 import WeatherComment from "./components/WeatherComment";
 import AddLoadingGif from "./components/AddLoadingGif";
+import Constants from "expo-constants";
 
 const BASE_WEATHER_URL = "https://api.openweathermap.org/data/3.0/onecall?";
-const WEATHER_API_KEY = "f5747519e3e4cdaa51ee717d0156c5ee";
+const WEATHER_API_KEY = Constants.expoConfig.env.WEATHER_API_KEY; // weather api key をenvから取得
 const window = Dimensions.get("window");
 const width = window.width - 100;
 const height = window.height;
-
-console.log(width);
 
 export default function App() {
   const [errorMessage, setErrorMessage] = useState(null);
