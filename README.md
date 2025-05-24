@@ -104,6 +104,4 @@ Hideaki Tomori
 
 ## 謝辞
 
-- OpenWeatherMap
-- 気象庁
-- Expoチーム
+- デザイン：S.K
